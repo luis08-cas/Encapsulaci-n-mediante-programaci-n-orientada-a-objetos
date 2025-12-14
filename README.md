@@ -1,1 +1,1 @@
-# Encapsulaci-n-mediante-programaci-n-orientada-a-objetos
+# Encapsulacion mediante programacion orientada a objetos
